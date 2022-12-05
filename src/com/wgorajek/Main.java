@@ -7,11 +7,11 @@ public class Main {
         System.out.println("Welcome to for Advent of Code 2022");
         System.out.println();
 
-        for (var day = 1; day <= 4 ; day++)
+        for (var day = 1; day <= 5 ; day++)
         {
             runSolution(day);
         }
-//        runSolution(4);
+//        runSolution(5);
 }
 
 
