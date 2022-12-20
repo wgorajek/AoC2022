@@ -11,7 +11,7 @@ public class Main {
         {
             runSolution(day);
         }
-//        runSolution(20);
+        runSolution(20);
 }
 
 
