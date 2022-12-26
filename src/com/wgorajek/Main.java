@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Welcome to for Advent of Code 2022");
+        System.out.println("Welcome to Advent of Code 2022");
         System.out.println();
 
-//        for (var day = 1; day <= 24 ; day++)
-//        {
-//            runSolution(day);
-//        }
-        runSolution(24);
+        for (var day = 1; day <= 25 ; day++)
+        {
+            runSolution(day);
+        }
+//        runSolution(25);
 }
 
 
